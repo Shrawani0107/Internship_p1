@@ -1,0 +1,22 @@
+
+        .gradeA{
+         background-color: chocolate;
+            padding: 4px;
+            width: 80px;
+            
+        }
+        .gradeB{
+            background-color: antiquewhite;
+            padding: 4px;
+            width: 80px;
+            
+        }
+        .l1{
+            background-color: aqua;
+            padding: 3px;
+        }
+        .tx, .gm{
+            color: blueviolet;
+        }
+
+    
